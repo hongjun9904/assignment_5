@@ -2,24 +2,16 @@
 
 디스크에서 관리되는 B+tree 를 구현해 간단한 Database Management System을 제작합니다.
 
-1. PDF로 제공된 Assignment 5의 GitHub Classroom repository 초대 링크를 통해 자신의 repository를 생성합니다.
-2. Repository의 이름을 assignment3-[본인 학번] 으로 변경합니다.
-3. 해당 repository를 clone 받습니다.
-4. README.md에 본인의 이름과 학번을 기입합니다.
-5. PDF에 있는 페이지 설명을 바탕으로 `src/dbbpt/file_manager.c`를 완성합니다.
-6. `src/inmembpt/inmembpt.c`를 참고하여 `src/dbbpt/dbbpt.c`를 완성합니다.
-
----
-
-## 🏷️ 본인의 이름과 학번을 적어주세요
-```
-학번:
-이름:
-```
+1. PDF에 있는 페이지 설명을 바탕으로 `src/dbbpt/file_manager.c`를 완성합니다.
+2. `src/inmembpt/inmembpt.c`를 참고하여 `src/dbbpt/dbbpt.c`를 완성합니다.
 
 ## 🗓️ 제출 기한
-- <b style='background-color: #ffdce0'>2025년 11월 20일 (목) 23시 59분</b>
-- <b style='background-color: #ffdce0'>기한 이후 제출 시 3시간 마다 전체 득점에서 5%씩 감점합니다.</b>
+- <b style='background-color: #ffdce0'>2026년 11월 24일 (화) 23시 59분</b>
+
+## 🗓️ 제출 방식
+
+전체 소스 코드를 하나의 ZIP 파일로 압축하여 LMS 과제 제출란에 제출합니다.
+파일명: assignment5_학번_이름.zip
 
 ## 🛠️ 빌드 및 실행
 
