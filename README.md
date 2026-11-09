@@ -1,8 +1,8 @@
-# Assignment 3 - Disk Based B+tree (Basic Database Management System)
+# Assignment 5 - Disk Based B+tree (Basic Database Management System)
 
 디스크에서 관리되는 B+tree 를 구현해 간단한 Database Management System을 제작합니다.
 
-1. PDF로 제공된 Assignment 3의 GitHub Classroom repository 초대 링크를 통해 자신의 repository를 생성합니다.
+1. PDF로 제공된 Assignment 5의 GitHub Classroom repository 초대 링크를 통해 자신의 repository를 생성합니다.
 2. Repository의 이름을 assignment3-[본인 학번] 으로 변경합니다.
 3. 해당 repository를 clone 받습니다.
 4. README.md에 본인의 이름과 학번을 기입합니다.
